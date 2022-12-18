@@ -1,6 +1,6 @@
 # FP_TBO
 
-#### Ini merupakan hasil Final Project kami yang berupa aplikasi pengecekan kalimat baku. Project ini bertujuan untuk memenuhi tugas akhir mata kuliah Teori Bahasa dan Otomata. Anda dapat mencobanya [disini](https://agungmahadana-grammar-checker-fp-y6odf5.streamlit.app/).
+#### Ini merupakan hasil Final Project kami (Kelompok 5B) yang berupa [Aplikasi Pengecekan Kalimat Baku](https://agungmahadana-grammar-checker-fp-y6odf5.streamlit.app/). Project ini bertujuan untuk memenuhi tugas akhir mata kuliah Teori Bahasa dan Otomata.
 
 ## Back-end function with Streamlit:
 
