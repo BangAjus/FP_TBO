@@ -2,6 +2,14 @@
 
 #### Ini merupakan hasil Final Project kami yang berupa aplikasi pengecekan kalimat baku. Project ini bertujuan untuk memenuhi tugas akhir mata kuliah Teori Bahasa dan Otomata.
 
+## Back-end function with Streamlit:
+
+- [FP](FP.py)
+
+## Front-end app:
+
+- [GUI](GUI.py)
+
 ## Code in
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
