@@ -1,3 +1,5 @@
+import streamlit as st
+
 t_kalimat = [["K", "SPO"],
           ["K", "SPOKet"],
           ["K", "SPOpel"],
@@ -127,3 +129,17 @@ def cek_kalimat(strinx):
   progressing(test, len(strinx))
   progressing2(test, len(strinx))
   return cek_baku(test)
+
+st.write("""
+# Aplikasi Pengecekan Kalimat Baku
+Ini adalah apliaksi pengecekan kalimat baku sederhana yang dibuat oleh **KELOMPOK 5** menggunakan Python dan Streamlit. Aplikasi ini dipergunakan untuk memenuhi tugas akhir mata kuliah Teori Bahasa dan Otomata, yang diampu oleh Ibu Dr. Anak Agung Istri Ngurah Eka Karyawati, S.Si., M.Eng.
+""")
+
+input = st.text_input("Masukkan kalimat yang ingin dicek: ")
+cek = st.button("Cek")
+
+if cek:
+    if cek_kalimat(input) == 1:
+        st.success("Kalimat baku")
+    else:
+        st.error("Kalimat tidak baku")
