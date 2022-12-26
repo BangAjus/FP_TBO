@@ -15,11 +15,19 @@ rules = [["S", "Noun", "Pronoun", "PropNoun", "NounAdj", "PronounNoun", "NounAdv
          ["Ket", "PrepPronoun", "PrepPropNoun", "PrepNoun", "PrepAdj"]]
 
 # data untuk diganti menjadi noun, verb, adj, prep, dan adv
+<<<<<<< HEAD
 noun = "Noun | gunggus | agung | wawan | gung | frady | raindra | ibu | makanan | hak | manusia | UUD | 1945 | kultur | jaringan | wadah | sifat | masalah | presentasi | mobil | suara | ayah | barang | sepeda | adik | gunuggus | adik | taman | bermain | rumah | dia | gaun | acara | orang | pasar | itu | saya | motor | pekarangan | bajunya | sayur-sayuran | kursi | bengkel | atas | meja | harga | martabak | manis | pertigaan | jalan | kucing | kampung | kami | sepatu | anaknya | bapak | guru | diri | pak | keliling | lapangan | pohon | jati | tubuh | mawar | rasa | air | laut | sekolahku | hatinya | hujan | celana | anak | permainan | siswa | kelas | keluarga | asap | rokok | pipi | kainnya | matahari | gadis | jendela | rumahnya | berita | senja | langit | gedung | kaki | kebun | bunga | bis | tangisan | bayi | kopinya | gadis-gadis | pekerjaan | pertanyaan"
 verb = "Verb | membawa | disebutkan | dilakukan | dijelaskan | melaju | menyukai | percaya | mengajak | pergi | tersebut | adalah | berhenti | mencuci | membeli | menggunakan | menduduki | diperbaiki | ditaruh | berkeliaran | menyuruh | murid | memperkenalkan | menghukum | lari | memiliki | turun | terkena | menjadi | membuat | merupakan | ada | menggembirakan | melangkahkan | belajar | menghampiri | berjalan | terdengar | mengerjakan | menjawab | berharga"
 adj = "Adj | enak | asasi | jelas | steril | sombong | singkat | hijau | cepat | merdu | murah | baru | kecil | baik | tua | kotor | suka | segar | biru | rusak | bulat | mewah | mahal | liar | baru | nakal | kokoh | merah | asin | dekat | resah | gundah | kepanjangan | menyenangkan | basah | elok | bahagia | patah | pintar | harmonis | kemerahan | menyeramkan | kering | terik | langsing | besar | kebesaran | kemerah-merahan | megah | yakin | ragu-ragu | secepatnya | sebaik-baiknya | sungguh-sungguh | takut | malam | cepat | nyaring | panas | cantik | hati-hati | rajin | benar"
 prep = "Prep | ke | pada | dalam | di | dari | karena | untuk"
 adv = "Adv | dengan | secara | begitu | akan | tidak | jangan | sangat | terlalu"
+=======
+noun = "Noun | ibu | makanan | hak | manusia | UUD | 1945 | kultur | jaringan | wadah | sifat | masalah | presentasi | mobil | suara | ayah | barang | sepeda | adik | gunuggus | adik | taman | bermain | rumah"
+verb = "Verb | membawa | disebutkan | dilakukan | membawa | dijelaskan | melaju | menyukai | percaya | mengajak | pergi"
+adj = "Adj | enak | asasi | jelas | steril | sombong | singkat | hijau | cepat | merdu | murah | baru | kecil"
+prep = "Prep | ke | pada | dalam | di | dari"
+adv = "Adv | dengan | secara | begitu"
+>>>>>>> 042bde6d4074eaada727e266bd7b672b45d41280
 
 # list data untuk menyimpan data
 data = [ ]
