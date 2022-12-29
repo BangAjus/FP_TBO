@@ -153,7 +153,9 @@ def progressing_x(list2 : list):
 
 # fungsi untuk memproses kalimat dari awal
 def cek_kalimat(strinx):
-  # string dipecah dahulu
+  # membuat string menjadi lowercase
+  strinx = strinx.lower()
+  # kemudian string dipecah
   strinx = strinx.split(" ") 
   # lalu buat segitiga tabel sesuai banyak kata pada string
   ar = array(len(strinx))
